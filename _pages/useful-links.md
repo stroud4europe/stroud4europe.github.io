@@ -1,11 +1,11 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /useful_links/
+title: "Useful Links"
 ---
+Here they are:
 
-Stroud for Europe is a politically non-aligned, cross-party, collaborative group:
-- Supporting intercultural opportunities in other European countries for Stroud young people.
-- Promoting and arranging cultural and linguistic events and activities.
-- Supporting nationals from other European countries living and working in Stroud.
+https://www.makevotesmatter.org.uk/  
+https://bathforeurope.com/
+
 
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
