@@ -18,8 +18,3 @@ If you have signed up to receive newsletters and mailings then we will only hold
 In addition and if offered by you, your telephone number will be held for the purpose of arranging volunteer activities.  
 Your personal data will be held electronically on a secure membership database.
 We will not share your personal data with any third party without your express permission.
-
-
-{% include video id="go9J9REtfdA?start=110" provider="youtube" %}
-
-https://www.youtube.com/watch?v=go9J9REtfdA
