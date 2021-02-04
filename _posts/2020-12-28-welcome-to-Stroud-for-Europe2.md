@@ -8,4 +8,4 @@ tags:
 
 # Welcome!  
 
-Welcome to the new Stroud for Europe website.
+Welcome to the new Stroud for Europe website. This is currently under development.
