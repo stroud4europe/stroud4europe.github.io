@@ -2,7 +2,7 @@
 permalink: /Brexit/
 title: "Brexit News"
 ---
-This page will list some of the losses and harms that local business and the population are now suffering due to no longer being members of the EU and in particular the single market and customs union. Real benefits will also be listed if any are found.
+This page will list some of the losses and harms that local business and the population are now suffering due to no longer being members of the EU and, in particular, the single market and customs union. Real benefits will also be listed, if any are found.
 
 ## Brexit benefits
 <iframe src="https://giphy.com/embed/3oEduFsHnm570eb3G0" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
