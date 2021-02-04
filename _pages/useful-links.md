@@ -2,10 +2,25 @@
 permalink: /useful_links/
 title: "Useful Links"
 ---
-Here they are:
+# Similar groups
+## Local groups
 
-https://www.makevotesmatter.org.uk/  
-https://bathforeurope.com/
+[Bath for Europe](https://bathforeurope.com/)  
+[Gloucestershire for Europe](http://www.glostays.eu/)  
+[Cheltenham for Europe](https://cheltenhamforeurope.co.uk/)  
+[Bristol for Europe](https://www.bristolforeurope.com/)  
 
+## Very active groups elsewhere
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+[Leeds for Europe](https://leedsforeurope.org/)
+
+# Background media
+
+[West Country Bylines](https://westcountrybylines.co.uk/)  
+[Yorkshire Bylines](https://yorkshirebylines.co.uk/)  
+
+# Related campaigns
+
+[Make Votes Matter](https://www.makevotesmatter.org.uk/)  
+[European Movement](https://www.europeanmovement.co.uk/)  
+[Grassroots for Europe](https://grassrootsforeurope.org/)

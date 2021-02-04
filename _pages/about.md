@@ -3,9 +3,23 @@ permalink: /about/
 title: "About"
 ---
 
-Stroud for Europe is a politically non-aligned, cross-party, collaborative group:
-- Supporting intercultural opportunities in other European countries for Stroud young people.
-- Promoting and arranging cultural and linguistic events and activities.
-- Supporting nationals from other European countries living and working in Stroud.
+Stroud for Europe is a politically non-aligned, cross-party, collaborative group which:
+- Supports intercultural opportunities in other European countries for Stroud young people.
+- Promotes and arranges cultural and linguistic events and activities.
+- Supports nationals from other European countries living and working in Stroud.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The group is run by a committee and holds regular public meetings for the wider supporters' group. *During the current pandemic these are being held using Zoom*.   
+
+## Data protection
+If you have signed up to receive newsletters and mailings then we will only hold personal data sufficient for us to provide these. The standard will be:
+- Your name
+- Your email address
+
+In addition and if offered by you, your telephone number will be held for the purpose of arranging volunteer activities.  
+Your personal data will be held electronically on a secure membership database.
+We will not share your personal data with any third party without your express permission.
+
+
+{% include video id="go9J9REtfdA?start=110" provider="youtube" %}
+
+https://www.youtube.com/watch?v=go9J9REtfdA

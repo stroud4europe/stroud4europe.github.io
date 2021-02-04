@@ -1,6 +1,7 @@
 ---
 permalink: /Home/
-title: "Home Page"
+title: ""
+layout: home
 ---
-
-This is now the homepage.
+![](/assets/images/loss.jpg)
+***Working to minimise the damage caused by Brexit and rebuild our European connections.***

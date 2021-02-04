@@ -66,12 +66,15 @@ author:
 
 - Supporting nationals from other European countries living and working in Stroud."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "m@stroud4europe.org"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:stroud4europe@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"

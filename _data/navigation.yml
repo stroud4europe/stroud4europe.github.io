@@ -3,11 +3,9 @@ main:
     url: /Home/
   - title: "News"
     url: /posts/
+  - title: "Brexit News"
+    url: /Brexit/
   - title: "Useful Links"
     url: /useful_links/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/

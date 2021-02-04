@@ -6,5 +6,6 @@ categories:
 tags:
 ---
 
-# Welcome!
+# Welcome!  
+
 Welcome to the new Stroud for Europe website.
