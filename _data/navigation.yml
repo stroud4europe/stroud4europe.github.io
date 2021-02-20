@@ -9,3 +9,5 @@ main:
     url: /useful_links/
   - title: "About"
     url: /about/
+  - title: "Examples"
+        url: /example-content/
