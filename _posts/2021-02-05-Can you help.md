@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-# Could you help the many great people who belong to Stroud4Europe to:
+# Could you help us to:
 
 - **Identify and develop existing European links in Stroud District** e.g twinning groups, exchange groups, friendship groups.  We are planning to set up a bursary scheme to support Stroud young people to work or study in EU countries.
 
