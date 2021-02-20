@@ -7,7 +7,7 @@ main:
     url: /Brexit/
   - title: "Useful Links"
     url: /useful_links/
-  - title: "About"
-    url: /about/
   - title: "Examples"
     url: /examples/
+  - title: "About"
+    url: /about/
