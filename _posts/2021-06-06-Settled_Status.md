@@ -1,6 +1,6 @@
 ---
 title: "Settled Status: time is running out"
-date: 2021-06-07T08:00:30-04:00
+date: 2021-06-06T08:00:30-04:00
 categories:
   - blog
 tags:
