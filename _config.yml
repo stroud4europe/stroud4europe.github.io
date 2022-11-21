@@ -78,6 +78,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Mastodon"
+      icon: "fa-brands fa-mastodon"
+      url: "https://mastodon.com/"
 
 footer:
   links:
