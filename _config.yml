@@ -87,9 +87,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "Instagram"
+    - label: "Instargram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instargram.com/"
 
 defaults:
   # _posts
