@@ -84,12 +84,15 @@ author:
 
 footer:
   links:
+    - label: "Mastodon"
+      icon: "fa-brands fa-mastodon"
+      url: "https://mastodon.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "Instargram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instargram.com/"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
