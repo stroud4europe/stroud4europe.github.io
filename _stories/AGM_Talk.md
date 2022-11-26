@@ -4,7 +4,7 @@ image_path: https://upload.wikimedia.org/wikipedia/commons/d/d1/AfghanBiscuit.jp
 ---
 ## A powerful video by Clare Moody
 
-Clare Moody, former MEP for South West and Gibraltar, opened Stroud4Europe's AGM with a talk on where we, as pro Europeans,  go from here.  Please listen to the short, inspiring video below. 
+Clare Moody, former MEP for South West and Gibraltar, opened Stroud4Europe's AGM with a talk on where we, as pro Europeans,  go from here.  Please watch the short, inspiring video below. 
 
 Clare's talk is prefaced by a tribute to Mark Huband who was a member of S4E's committee and died very sadly and very unexpectedly two days before the AGM.
 
@@ -20,7 +20,7 @@ After our departure from the EU, the December ’19 election results and the Tra
 
 However, there are glimmers of hope for pro Europeans -  with current problems of empty shelves, petrol and energy crises and poor international relations , all being exacerbated by Brexit.  
 
-We need to show “persistence beats resistance” by following up Brexit impacts issue by issue. 
+We need to show “persistence beats resistance” by following up Brexit impacts, issue by issue. 
 
 Few people will enjoy hearing about the Customs Union and Single Market.  We have to target in particular the middle 40% “floating voters” with issues we can all identify with. 
 
