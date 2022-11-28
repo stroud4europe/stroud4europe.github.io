@@ -80,13 +80,13 @@ author:
       url: "https://instagram.com/"
     - label: "Mastodon"
       icon: "fa-brands fa-mastodon"
-      url: "https://mastodon.com/"
+      url: "https://mastodonapp.uk/@Stroud4Europe"
 
 footer:
   links:
     - label: "Mastodon"
       icon: "fa-brands fa-mastodon"
-      url: "https://mastodon.com/"
+      url: "https://mastodonapp.uk/@Stroud4Europe"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
